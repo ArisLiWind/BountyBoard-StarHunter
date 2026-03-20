@@ -10,7 +10,6 @@ The core loop is simple:
 
 - A player places a bounty on another player.
 - The reward is locked into a contract as tokens, items, or NFTs.
-- Other players accept the bounty.
 - If the target is successfully killed, the hunter receives the reward.
 
 That simple structure creates a strong PvP loop where every player can become both a hunter and a target. The system is intentionally lightweight, but it is designed to make PvP more dynamic, social, and fun.
